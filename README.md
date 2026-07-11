@@ -2,7 +2,7 @@
 
 ## A MATRIZ — QUEBRANDO O CÓDIGO MILENAR
 
-![Book cover / Capa do livro](assets/capa.png)
+![Official Portuguese cover from the Internet Archive / Capa portuguesa oficial do Internet Archive](assets/capa-pt.png)
 
 **Author / Autor:** Rui Almeida
 
@@ -14,9 +14,10 @@
 
 ## Editions and links / Edições e ligações
 
-- **Amazon — printing cost, zero profit / preço de impressão, lucro zero:** [Find the book by ISBN / Encontrar o livro pelo ISBN](https://www.amazon.com/s?k=9781291883633)
+- **Amazon — printing cost, zero profit / preço de impressão, lucro zero:** [Portuguese edition / Edição portuguesa](https://www.amazon.com.br/MATRIZ-QUEBRANDO-C%C3%93DIGO-MILENAR-ebook/dp/B0GFY26FF9)
 - **Lulu — printing cost, zero profit / preço de impressão, lucro zero:** [Find the book by ISBN / Encontrar o livro pelo ISBN](https://www.lulu.com/search?adult_audience_rating=00&page=1&pageSize=10&q=9781291883633)
-- **Internet Archive:** [Search the title / Procurar o título](https://archive.org/search?query=%22The+Matrix%22+%22Breaking+the+Millennial+Code%22)
+- **Internet Archive — Português:** [A Matriz — Quebrando o Código Milenar](https://archive.org/details/matriz-quebrando-o-co-digo-milenar-distribuicao-gratuita)
+- **Internet Archive — English:** [The Matrix — Breaking the Millennial Code](https://archive.org/details/the-matrix-breaking-the-millennial-code-en-us)
 - **Read online / Ler online:** [Public English edition / Edição pública inglesa](https://www.scribd.com/document/980474821/THE-MATRIX-BREAKING-THE-MILLENNIAL-CODE-en)
 
 The Portuguese and English printed editions are made available at the cost of printing. The author receives no profit from these sales.
